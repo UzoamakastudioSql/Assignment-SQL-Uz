@@ -1,0 +1,1 @@
+SELECT `year`, `% White` from divert.`diversity in tech companies` where `% White` = "79" 

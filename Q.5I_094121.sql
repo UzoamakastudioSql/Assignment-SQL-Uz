@@ -1,0 +1,1 @@
+SELECT `company`, `% Black` from divert.`diversity in tech companies` where `Company` = "yahoo!" OR `Company` = "Google"
